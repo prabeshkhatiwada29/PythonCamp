@@ -1,0 +1,1 @@
+# In comments we are wite the code in standard form
